@@ -71,7 +71,7 @@
                 "server": "fakeip"
             }
         ],
-        "final": "dns-remote",
+        "final": "dns-google",
         "strategy": "prefer_ipv4"
     },
     "inbounds": [{
